@@ -44,4 +44,4 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
-
+gem 'ketcherails', '0.1.5', git: 'https://github.com/ComPlat/ketcher-rails.git', branch: 'fix_main_app_dependencies'
